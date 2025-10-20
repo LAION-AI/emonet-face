@@ -115,9 +115,14 @@ See [`LICENSE`](LICENSE) for details.
 If you use this repository or models, please cite our paper:
 
 ```
-@inproceedings{emoface2025,
-  title={EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition},
-  year={2025},
+@misc{emonetface2025,
+      title={EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition}, 
+      author={Christoph Schuhmann and Robert Kaczmarczyk and Gollam Rabby and Felix Friedrich and Maurice Kraus and Krishna Kalyan and Kourosh Nadi and Huu Nguyen and Kristian Kersting and Sören Auer},
+      year={2025},
+      eprint={2505.20033},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.20033}, 
 }
 ```
 
