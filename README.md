@@ -130,7 +130,10 @@ If you use this repository or models, please cite our paper:
 
 ## Acknowledgements
 
-TBA
+We gratefully acknowledge the support of [Intel](https://laion.ai/blog/laion-intel-cooperation/) (oneAPI Center of Excellence), [DFKI](https://www.dfki.de/), [Nous Research](https://nousresearch.com/) (providing cluster access and compute), [TU Darmstadt](https://www.tu-darmstadt.de/), [TIB—Leibniz Information Centre for Science and Technology](https://www.tib.eu/de/), and [Hessian.AI](https://hessian.ai/) (providing compute and helpful discussions), as well as the open-source community for contributing to emotional AI.  
+
+This work benefited from the ICT-48 Network of AI Research Excellence Center “TAILOR” (EU Horizon 2020, GA No 952215), the Hessian research priority program LOEWE within the project WhiteBox, the HMWK cluster projects “Adaptive Mind” and “Third Wave of AI”, and from the NHR4CES. Furthermore, this work was partly funded by the Federal Ministry of Education and Research (BMBF) project “XEI” (FKZ 01IS24079B).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
