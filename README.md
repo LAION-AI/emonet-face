@@ -26,6 +26,12 @@
   </p>
 </div>
 
+<!-- 🎉 NeurIPS 2025 Announcement -->
+<div align="center">
+  <h3>🎉 [2025-September] Accepted at NeurIPS!</h3>
+  <p>See you at NeurIPS 2025 in San Diego, Tuesday Dec 2nd through Sunday Dec 7th.</p>
+</div>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
