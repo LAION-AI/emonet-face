@@ -57,8 +57,6 @@ Effective human-AI interaction relies on AI's ability to accurately perceive and
 
 The publicly released EmoNet-Face suite—taxonomy, datasets, and model—provides a robust foundation for developing and evaluating AI systems with a deeper understanding of human emotions.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Contents
 
 - **data/**
@@ -75,8 +73,6 @@ The publicly released EmoNet-Face suite—taxonomy, datasets, and model—provid
   - `worldmap.ipynb`: Notebook for world map visualizations.
 - **README.md**: This file.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Datasets
 
 The datasets for this project are hosted on Hugging Face and are designed to address the limitations of prior work by providing explicit, full-face expressions and balanced demographic representation:
@@ -84,8 +80,6 @@ The datasets for this project are hosted on Hugging Face and are designed to add
 - **[EmoNet-Face HQ](https://huggingface.co/datasets/laion/emonet-face-hq):** 2,500 expert-annotated images covering 40 emotion categories (test set), with rigorous multi-expert annotation and demographic control.
 - **[EmoNet-Face Binary](https://huggingface.co/datasets/laion/emonet-face-binary):** 19,999 images with binary expert annotations (for fine-tuning), also demographically balanced.
 - **[EmoNet-Face Big](https://huggingface.co/datasets/laion/emonet-face-big):** Over 400,000 images with weak emotion labels (training set), generated with explicit, full-face expressions and demographic diversity.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Pretrained Models
 
@@ -97,8 +91,6 @@ We provide two self-trained inference models for emotion recognition, collective
 - **Empathic Insight Face Large**  
   [Colab Notebook](https://colab.research.google.com/drive/11oUMo2HX0OuD9dx5ZM4ltNvoYxbI65hu?usp=sharing)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## License
 
 - **Code:** MIT License
@@ -107,8 +99,6 @@ We provide two self-trained inference models for emotion recognition, collective
 See [`LICENSE`](LICENSE) for details.
 
 [![MIT License][license-shield]][license-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Citation
 
@@ -125,8 +115,6 @@ If you use this repository or models, please cite our paper:
       url={https://arxiv.org/abs/2505.20033}, 
 }
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgements
 
