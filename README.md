@@ -28,8 +28,7 @@
 
 <!-- 🎉 NeurIPS 2025 Announcement -->
 <div align="center">
-  <h3>🎉 [2025-September] Accepted at NeurIPS!</h3>
-  <p>See you at NeurIPS 2025 in San Diego, Tuesday Dec 2nd through Sunday Dec 7th.</p>
+  <h4>[2025/09/18] EmoNet Face is accepted at NeurIPS 2025! See you in San Djego! 🎉</h4> 
 </div>
 
 <!-- TABLE OF CONTENTS -->
